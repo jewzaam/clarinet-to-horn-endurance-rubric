@@ -1,12 +1,12 @@
 # Clarinet-to-French-Horn Effort Rubric
 
-Self-assessment tool for a returning musician: can you predict French horn endurance from your current clarinet playing ability?
+Factual correlation of clarinet playing endurance to estimated French horn endurance.
 
-**Target instrument:** Holton Farkas H279 (professional double horn, nickel silver, est. 2.5-2.7 kg)
+**Reference instrument:** Holton Farkas H279 — a professional double horn named after Philip Farkas (Chicago Symphony Orchestra principal horn, author of *The Art of French Horn Playing*), one of the most widely recognized professional double horn lines. At 2.5–2.7 kg it sits at the upper end of the double horn weight range, making rubric estimates conservative relative to lighter horns. Well-documented specifications [4].
 
 ## The Short Answer
 
-If you can play clarinet comfortably for **T minutes**, expect French horn for roughly **T / 3 to T / 5 minutes** initially. Embouchure (brass lip buzz) is a separate factor this rubric cannot predict — it will likely be your actual bottleneck.
+If you can play clarinet comfortably for **T minutes**, the correlated French horn estimate is roughly **T / 3 to T / 5 minutes**. Embouchure (brass lip buzz) is a separate factor this rubric cannot predict — it is likely the actual bottleneck.
 
 ## Correlation Table
 
@@ -26,17 +26,9 @@ Assumes moderate dynamics (mezzo-forte), mid-register. Loud or high playing redu
 
 1. Play clarinet at comfortable volume until you want to stop. Note the time and *why* you stopped (arms? breath? lips? focus?).
 2. Find your time in the table above. Use the conservative column.
-3. If you stopped due to **arm fatigue** — the horn is 3.5x heavier in a harder position. Consider an ergonomic support.
-4. If you stopped due to **breath** — horn needs 1.2-2x the air pressure. This recovers fastest with practice.
-5. If you stopped due to **embouchure** — this resets to zero on horn (different mechanism entirely). Budget 4-8 weeks to rebuild.
-
-## Is It Worth Restoring?
-
-| Your goal | Horn session needed | Clarinet baseline required |
-|---|---|---|
-| Casual playing at home | 5-10 min | 15-30 min |
-| Working through etudes | 15-20 min | 45-60 min |
-| Community ensemble | 30-45 min (with rests) | 60-90 min |
+3. If you stopped due to **arm fatigue** — the horn is 3.5x heavier in a harder position. Ergonomic support reduces horn-playing muscle activity by 15-30% [23].
+4. If you stopped due to **breath** — horn needs 1.2-2x the air pressure. Breath support recovers fastest with practice.
+5. If you stopped due to **embouchure** — this resets to zero on horn (different mechanism entirely). Embouchure rebuilding typically requires 4-8 weeks.
 
 ## Full Documentation
 
