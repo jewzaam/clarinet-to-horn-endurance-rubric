@@ -54,7 +54,7 @@ Testimonials documenting neck, shoulder, arm, and back pain in horn players. Tri
 Qualitative advice on horn posture and weight. Notes that adult players develop postural imbalances including shoulder misalignment. "Hornmasters on Endurance" series cites Farkas, Yancich, and Berv protocols. No quantified biomechanical measurements.
 
 **[11]** jennyclarinet.com — Clarinet ergonomics and thumb rest position.
-*Status: Source inaccessible during research (March 2026). Claims attributed to this source in the plan could not be verified.* The "70% of new students report hand/wrist discomfort" statistic is UNVERIFIED.
+*Status: Site accessible (March 2026) but the "70% of new students report hand/wrist discomfort" statistic was not found anywhere on the site. Claim remains UNVERIFIED and is not used in the rubric.*
 
 **[12]** Lopez-Pineda, Javier; Rodriguez-Martinez, Maria Carmen; Gomez-Rodriguez, Rosa; Garcia-Casares, Lucia; Garcia-Casares, Natalia. "Biomechanical Assessments in Woodwind Musicians: A Systematic Review." *Healthcare (Basel)*, vol. 11, no. 11, article 1621, 2023.
 <https://pmc.ncbi.nlm.nih.gov/articles/PMC10253106/>
@@ -72,7 +72,7 @@ Qualitative stamina-building advice. No quantitative benchmarks, durations, or p
 
 **[15]** "Endurance." *HSU Trumpets*, n.d.
 <http://www.hsutrumpets.com/endurance/>
-Brass endurance principles: ~5-minute rest breaks when fatigue begins; 10-minute playing sessions as building blocks; "one hour of practice gives endurance for a two-hour rehearsal"; embouchure muscles plateau after 3 consecutive days of 1-hour practice. Note: the exact phrase "5-on/5-off protocol" is not used on this page, though the concepts align.
+Brass endurance principles. Rest breaks of "maybe only 5 minutes or less" when fatigue begins; 10-on/10-off protocol (Bill Pfund); 1-hour practice → 2-hour rehearsal ratio (author's personal guideline); 3-day embouchure plateau attributed to Ifor James (horn player, Phillip Jones Brass Ensemble), communicated via Pat Sheridan (tuba), validated by doctors.
 
 **[16]** Baadjou, V.A.E.; van Eijsden-Besseling, M.D.F.; Samama-Polak, A.L.W.; Smeets, R.J.E.M.; Lima Passos, V.; Westerterp, K.R. "Energy Expenditure in Brass and Woodwind Instrumentalists: The Effect of Body Posture." *Medical Problems of Performing Artists*, vol. 26, no. 4, pp. 218-223, December 2011.
 <https://pubmed.ncbi.nlm.nih.gov/22211199/>
@@ -124,4 +124,4 @@ N=731 children (ages 7-17). Lifetime PRMP symptoms: 67%. Past-month symptoms: 56
 
 ---
 
-*Total sources: 26. Verified via web fetch: 18. Partially verified: 4 ([9], [10], [15], [19]). Inaccessible: 3 ([11], [20], [21] — content not matching expectations or site blocked). Low-value: 1 ([17]).*
+*Total sources: 26. Verified via web fetch or cached pages: 21. Partially verified: 2 ([9], [10]). Inaccessible: 3 ([14], [19], [20] — site blocked or 403 Forbidden). Accessible but attributed claim not found: 1 ([11]).*

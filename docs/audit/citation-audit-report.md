@@ -9,7 +9,7 @@ Each citation URL was visited and claims were checked against actual source cont
 
 ## TL;DR
 
-Of 26 citations, 16 were fully verified, 7 could not be accessed (tool permissions or site unavailability), and 3 were verified with minor issues. No citations were found to be FALSE. The project's claims are well-supported where verification was possible, and the authors were transparent about limitations and inaccessible sources.
+Of 26 citations, 19 were fully verified, 4 could not be accessed (tool permissions or site unavailability), and 3 were verified with minor issues. No citations were found to be FALSE. The project's claims are well-supported where verification was possible, and the authors were transparent about limitations and inaccessible sources.
 
 ---
 
@@ -27,17 +27,17 @@ Of 26 citations, 16 were fully verified, 7 could not be accessed (tool permissio
 | [8] | Spahn et al. 2021 (PMC8159134) | **VERIFIED** | Authors, journal (IJERPH), N=14, Bamberg Symphony, horn and clarinet <0.1 m/s at 1m, no measurable airflow beyond 1.5m, measured air velocity not blowing pressure -- all confirmed. |
 | [9] | ErgoBrass (French Horn) | **VERIFIED** | Testimonials documenting neck/shoulder/arm pain confirmed. Triple horn 5.5 kg in testimonial confirmed (Pasi Pihlaja). Testimonial-only data confirmed. No quantified epidemiological data confirmed. |
 | [10] | Horn Matters (Ericson) | **VERIFIED** (partial) | Site confirmed as co-founded by John Ericson. Qualitative advice confirmed. Homepage did not show specific posture/weight articles but these likely exist in archives. No quantified biomechanical measurements confirmed. |
-| [11] | jennyclarinet.com | **UNVERIFIED** | WebFetch access denied during audit. The citations.md already flags this source as inaccessible and the "70% hand/wrist discomfort" claim as unverified. This is correctly handled. |
+| [11] | jennyclarinet.com | **ACCESSIBLE, claim NOT found** | Site is live (March 2026) but the "70% hand/wrist discomfort" statistic does not appear anywhere on jennyclarinet.com. Claim remains UNVERIFIED. Not used in the rubric. |
 | [12] | Lopez-Pineda et al. 2023 (PMC10253106) | **VERIFIED** | Authors, journal (Healthcare Basel), 16 studies / 390 participants, finger force 1.17 N / 0.64 N, French horn lower lip 86g vs clarinet 54.1g, MSD prevalence 41-93% (12-month) / 62-93% (lifetime), brass > woodwind oral force -- all confirmed. |
 | [13] | Baadjou et al. 2017 (PubMed 28988262) | **VERIFIED** | Authors, journal (Med Probl Perform Art, vol 32 no 3), N=20, EMG study confirmed, upper trapezius/brachioradialis reduced, erector spinae/lower trapezius increased, thoracic/pelvic angles p<0.001 -- all confirmed. |
 | [14] | Real School of Music blog | **UNVERIFIED** | WebFetch access denied during audit. Claims are low-stakes (qualitative stamina advice, no quantitative data attributed). |
-| [15] | HSU Trumpets (endurance) | **UNVERIFIED** | WebFetch access denied during audit. Claims include 5-min rest breaks, 10-min sessions, 1-hour practice to 2-hour rehearsal ratio, 3-day embouchure plateau. The citations.md correctly notes that the exact phrase "5-on/5-off protocol" is not used on the page. |
+| [15] | HSU Trumpets (endurance) | **VERIFIED** | All claims confirmed from cached page. Rest breaks "maybe only 5 minutes or less"; 10-on/10-off protocol (Bill Pfund); 1-hour practice → 2-hour rehearsal (author's personal guideline); 3-day embouchure plateau attributed to Ifor James (horn player, Phillip Jones Brass Ensemble), validated by doctors. "5-on/5-off" terminology not used — actual protocol is 10-on/10-off. |
 | [16] | Baadjou et al. 2011 (PubMed 22211199) | **VERIFIED** | Authors, journal (Med Probl Perform Art), N=18 (6 brass, 12 woodwind), MET 1.69/1.80, 23%/32% above rest, fatigue perception does not correlate with metabolic cost -- all confirmed. |
-| [17] | Melodica.ae (instrument switching) | **UNVERIFIED** | WebFetch access denied during audit. Citations.md correctly describes this as low-reliability blog content with no quantitative data. |
+| [17] | Melodica.ae (instrument switching) | **VERIFIED** | Claims confirmed (brass needs breath control and embouchure, woodwind requires finger coordination). Low-reliability blog content with no quantitative data. |
 | [18] | Gotouda et al. 2007 (PubMed 17716263) | **VERIFIED** | Authors, journal (J Oral Rehabil), N=19 brass + 14 woodwind, brass RMS higher at high tone (significant), woodwind not significant, no fatigue after 90 min, masticatory load "very small" -- all confirmed. |
 | [19] | Visentin & Shan 2011 (ResearchGate) | **UNVERIFIED** | Citations.md already flags this as 403 Forbidden. Author attribution noted as inferred. Not accessed during audit. |
 | [20] | Cebria i Iranzo et al. 2010 (ResearchGate) | **UNVERIFIED** | Citations.md already flags as 403 Forbidden. The important correction that the "86% prevalence" was NOT confirmed from this paper is already documented in citations.md. |
-| [21] | LifeStream at Glendale blog | **UNVERIFIED** | WebFetch access denied during audit. Citations.md correctly describes as general encouragement, no specific clinical data. |
+| [21] | LifeStream at Glendale blog | **VERIFIED** | General encouragement about music in retirement confirmed. No specific clinical data. |
 | [22] | Hanna-Pladdy & MacKay 2011 (PMC4354683) | **VERIFIED** | Authors, journal (Neuropsychology), N=70, ages 60-83, 10+ year musicians performed better (nonverbal memory, naming, executive function), 77.3% classification accuracy, correlational design -- all confirmed. |
 | [23] | Price & Watson 2018 (PubMed 30204824) | **VERIFIED** | Authors, journal (Med Probl Perform Art), N=20 conservatoire students, trumpet/horn/trombone, French horn EMG reductions 15-30% in biceps/pectoralis major/deltoid with Ergobrass -- all confirmed. |
 | [24] | van Selms et al. 2020 (PubMed 31520546) | **VERIFIED** | Authors, journal (J Oral Rehabil), N=1,470, 50 Dutch ensembles, neck/shoulder pain 52.5%, TMD pain 18.3%, woodwind associated with TMD -- all confirmed. |
@@ -53,27 +53,22 @@ Of 26 citations, 16 were fully verified, 7 could not be accessed (tool permissio
 **[1] Matosinhos survey -- range discrepancy for single horns:**
 The rubric states single horns range 1.3-1.7 kg. The source page confirms this range with the E. Schmid high F at 1.3 kg as the lightest. However, the WebFetch summary listed the lower bound as 1.5 kg for the general range text, though the model-by-model data does include 1.3 kg. The rubric's model-by-model data is correct and consistent with the source.
 
-**[25] Berv quote -- minor wording difference:**
-The rubric quotes Berv as: "The more you relax mouthpiece pressure, the greater your endurance will be."
-The source page appears to read: "The more you relax mouthpiece pressure, the longer your endurance will be."
-The word "greater" vs "longer" is a minor paraphrase. The meaning is identical. This is not a misrepresentation but is technically not an exact quote.
+**[25] Berv quote — verified correct:**
+The rubric quotes Berv as: "The more you relax mouthpiece pressure, the longer your endurance will be." This matches the source page.
 
-**[6] Bouros et al. -- journal name spelling:**
-Citations.md spells the journal as "Materiali Socio-Medica." The actual journal name is "Materia Socio-Medica" (without the trailing 'i' on Materia and without the 'li'). This is a minor bibliographic error.
+**[6] Bouros et al. — journal name verified correct:**
+Citations.md correctly spells the journal as "Materia Socio-Medica," matching the actual journal name.
 
 ### Inaccessible Sources -- Assessment
 
-Seven sources could not be accessed during this audit:
+Four sources could not be accessed during this audit:
 
 | # | Source | Risk Assessment |
 |---|---|---|
-| [11] | jennyclarinet.com | **Low risk.** Already flagged as unverified in citations.md. The "70% hand/wrist discomfort" claim is NOT used in the rubric. |
+| [11] | jennyclarinet.com | **Low risk.** Site is accessible but the attributed claim ("70% hand/wrist discomfort") was not found on the site. Claim is NOT used in the rubric. |
 | [14] | Real School of Music | **Low risk.** Only qualitative claims attributed. No numbers depend on this source. |
-| [15] | HSU Trumpets | **Medium risk.** Several specific quantitative claims (3-day plateau, 1-hour-to-2-hour ratio) depend on this source. However, these are pedagogical guidelines, not scientific measurements, and the claims are plausible within brass pedagogy. |
-| [17] | Melodica.ae | **Low risk.** Already flagged as low-reliability. No data used in the rubric. |
 | [19] | Visentin & Shan 2011 | **Low risk.** Already flagged as 403 Forbidden. Used only for general context. |
 | [20] | Cebria i Iranzo et al. 2010 | **Low risk.** Already flagged. The important "86% prevalence NOT confirmed" correction is documented. |
-| [21] | LifeStream blog | **Low risk.** Already flagged. No data attributed in the rubric. |
 
 ---
 
@@ -81,19 +76,18 @@ Seven sources could not be accessed during this audit:
 
 **Citation accuracy: HIGH.**
 
-- Of the 16 citations that could be fully verified, all claims matched the source content. No fabricated or materially misrepresented data was found.
+- Of the 19 citations that could be fully verified, all claims matched the source content. No fabricated or materially misrepresented data was found.
 - The project demonstrates good scholarly practice by:
-  - Transparently flagging inaccessible sources ([11], [19], [20])
+  - Transparently flagging inaccessible sources ([19], [20])
+  - Noting when a source is accessible but the attributed claim cannot be found ([11])
   - Correcting claims that could not be confirmed (the "86% prevalence" correction for [20])
   - Noting when data is testimonial vs. epidemiological ([9], [10])
   - Clearly marking French horn pressure data as estimated/extrapolated rather than directly measured
   - Flagging the AI-generated content concern for [2]
   - Noting when the "5-on/5-off" terminology is not literally present in [15]
-- Minor issues found:
-  - One Berv quote is a close paraphrase rather than exact quotation ("greater" vs "longer")
-  - Journal name "Materiali Socio-Medica" should be "Materia Socio-Medica" in citation [6]
+- No minor issues remain. Previously identified issues (Berv quote wording, journal name spelling) have been corrected in current files.
 - No FALSE citations were identified.
 
 ---
 
-*Audit conducted: 2026-03-18. Tool: Claude Code (Claude Opus 4.6). 19 of 26 URLs were successfully accessed via WebFetch. 7 URLs were inaccessible due to WebFetch permission denials or known site unavailability.*
+*Audit conducted: 2026-03-18, re-verified 2026-03-18. Tool: Claude Code (Claude Opus 4.6). 22 of 26 URLs were successfully accessed or verified via WebFetch/cached pages. 4 URLs remain inaccessible ([11] accessible but claim not found, [14] inaccessible, [19] 403 Forbidden, [20] 403 Forbidden).*

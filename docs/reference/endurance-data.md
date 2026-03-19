@@ -32,17 +32,15 @@ N=18 musicians (6 brass, 12 woodwind; 10 women, 8 men; mean age 39 ± 14 years).
 
 ### HSU Trumpets [15]
 
-Principles from a brass pedagogy resource (not peer-reviewed):
+Principles from a brass pedagogy resource (not peer-reviewed), fully verified from cached page:
 
-- **Rest protocol:** Take ~5-minute breaks when fatigue begins under the mouthpiece. This allows "the body to bring nutrients and oxygen to your face muscles and remove waste products and lactic acid."
-- **Session building blocks:** Multiple 10-minute playing sessions build long-term endurance.
-- **Practice-to-performance ratio:**
+- **Rest protocol:** Take breaks of "maybe only 5 minutes or less" when fatigue begins under the mouthpiece. This allows "the body to bring nutrients and oxygen to your face muscles and remove waste products and lactic acid."
+- **Session building blocks:** 10-on/10-off protocol (Bill Pfund).
+- **Practice-to-performance ratio** (author's personal guideline):
   - 1 hour practice → endurance for 2-hour rehearsal (due to rests between playing in rehearsal)
   - 1 hour practice → endurance for 1-hour concert (less non-playing time)
-- **Endurance ceiling:** "Practicing one hour a day for three days in a row is as strong as embouchure muscles get."
+- **Endurance ceiling:** "Practicing one hour a day for three days in a row is as strong as embouchure muscles get." This 3-day embouchure plateau is attributed to Ifor James (horn player, Phillip Jones Brass Ensemble), communicated via Pat Sheridan (tuba) to the page author, and validated by hired doctors.
 - **Ensemble type matters:** Brass quintet/chamber music demands "much more endurance than band, orchestra, or big band because there are so few rests."
-
-Note: The exact phrase "5-on/5-off protocol" does not appear on this page. The site describes rest breaks of ~5 minutes and playing sessions of ~10 minutes, which aligns with the concept but uses different terminology [15].
 
 ### Hornmasters on Endurance [25]
 

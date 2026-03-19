@@ -152,7 +152,7 @@ The awkwardness penalty is built into the combined rubric table. It does not cre
 - **Short phrases (<30 sec):** Pressure difference is minor at moderate dynamics. Breath is unlikely to be the limiting factor.
 - **Long phrases (30-60+ sec):** Sustained higher pressure causes respiratory muscle fatigue faster. The horn player must maintain 1.2-1.8× the pressure of clarinet for the same duration at the same dynamic.
 - **Loud dynamics (forte-ff):** Pressure gap widens to 1.4-2.4×. Loud horn playing is substantially more breath-demanding than loud clarinet playing.
-- **High register:** Horn pressure increases with pitch (approximately doubles per octave, based on trumpet data from Bouhuys 1965 — likely similar for all lip-vibrated brass). Clarinet is unusual — pressure does NOT increase with pitch at the same loudness [7].
+- **High register:** Horn pressure increases with pitch (approximately doubles per octave, based on trumpet data from Bouhuys 1965 — likely similar for all lip-vibrated brass; horn's conical bore may reduce back-pressure somewhat [7]). Clarinet is unusual — pressure does NOT increase with pitch at the same loudness [7].
 
 ### Breath Endurance Formula
 
@@ -261,7 +261,7 @@ Find your time in the [correlation table](#correlation-table). Use the **conserv
 
 ## 7. Adaptation Timeline
 
-Synthesized from pedagogical sources [14][15][25]. Individual variation is significant.
+Synthesized from trumpet and general brass pedagogy [14][15][25], not horn-specific studies, though the embouchure plateau principle originates from horn pedagogue Ifor James [15]. Individual variation is significant.
 
 | Week | Suggested Horn Session | Rest Protocol | Focus |
 |---|---|---|---|
@@ -304,6 +304,8 @@ Synthesized from pedagogical sources [14][15][25]. Individual variation is signi
 All sources are fully documented in [citations.md](citations.md) with URLs, authors, publication details, and access dates. Supporting data organized by dimension in the [reference/](reference/) directory.
 
 ### Quick Reference
+
+Sources cited in this rubric. See [citations.md](citations.md) for all 26 sources.
 
 | # | Source | Used For |
 |---|---|---|

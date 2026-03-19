@@ -106,7 +106,7 @@ Data from Musical Instrument Hub [2]. Note: source quality is moderate (see cita
 
 **Typical Bb clarinet range: 680-770 g / 1.5-1.7 lbs** [2]
 
-A clarinet is approximately 3.5-5% heavier than an equivalent Bb clarinet [2].
+An A clarinet (pitched in A) is approximately 3.5-5% heavier than an equivalent Bb clarinet [2].
 
 ---
 
